@@ -13,7 +13,7 @@ import com.baseapp.framework.mvp.presenter.view.MainView;
 
 /**
  * Created by wby on 2016/4/12.
- * asd
+ * 注释添加
  */
 public class MainActivity extends BaseActivity implements MainView{
     MainPresenter mainPresenter ;
