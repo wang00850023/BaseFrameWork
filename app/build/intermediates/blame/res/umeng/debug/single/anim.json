@@ -1,0 +1,38 @@
+[
+    {
+        "merged": "D:\\ASWork\\BaseFrameWork\\app\\build\\intermediates\\res\\merged\\umeng\\debug\\anim\\pull_arrow_up.xml",
+        "source": "D:\\ASWork\\BaseFrameWork\\app\\src\\main\\res\\anim\\pull_arrow_up.xml"
+    },
+    {
+        "merged": "D:\\ASWork\\BaseFrameWork\\app\\build\\intermediates\\res\\merged\\umeng\\debug\\anim\\back_righttoleft.xml",
+        "source": "D:\\ASWork\\BaseFrameWork\\app\\src\\main\\res\\anim\\back_righttoleft.xml"
+    },
+    {
+        "merged": "D:\\ASWork\\BaseFrameWork\\app\\build\\intermediates\\res\\merged\\umeng\\debug\\anim\\slide_left_in.xml",
+        "source": "D:\\ASWork\\BaseFrameWork\\app\\src\\main\\res\\anim\\slide_left_in.xml"
+    },
+    {
+        "merged": "D:\\ASWork\\BaseFrameWork\\app\\build\\intermediates\\res\\merged\\umeng\\debug\\anim\\photo_dir_slide_out.xml",
+        "source": "D:\\ASWork\\BaseFrameWork\\app\\src\\main\\res\\anim\\photo_dir_slide_out.xml"
+    },
+    {
+        "merged": "D:\\ASWork\\BaseFrameWork\\app\\build\\intermediates\\res\\merged\\umeng\\debug\\anim\\photo_dir_slide_in.xml",
+        "source": "D:\\ASWork\\BaseFrameWork\\app\\src\\main\\res\\anim\\photo_dir_slide_in.xml"
+    },
+    {
+        "merged": "D:\\ASWork\\BaseFrameWork\\app\\build\\intermediates\\res\\merged\\umeng\\debug\\anim\\slide_left_out.xml",
+        "source": "D:\\ASWork\\BaseFrameWork\\app\\src\\main\\res\\anim\\slide_left_out.xml"
+    },
+    {
+        "merged": "D:\\ASWork\\BaseFrameWork\\app\\build\\intermediates\\res\\merged\\umeng\\debug\\anim\\back_lefttoright.xml",
+        "source": "D:\\ASWork\\BaseFrameWork\\app\\src\\main\\res\\anim\\back_lefttoright.xml"
+    },
+    {
+        "merged": "D:\\ASWork\\BaseFrameWork\\app\\build\\intermediates\\res\\merged\\umeng\\debug\\anim\\pull_arrow_down.xml",
+        "source": "D:\\ASWork\\BaseFrameWork\\app\\src\\main\\res\\anim\\pull_arrow_down.xml"
+    },
+    {
+        "merged": "D:\\ASWork\\BaseFrameWork\\app\\build\\intermediates\\res\\merged\\umeng\\debug\\anim\\slide_right_out.xml",
+        "source": "D:\\ASWork\\BaseFrameWork\\app\\src\\main\\res\\anim\\slide_right_out.xml"
+    }
+]

@@ -1,0 +1,46 @@
+[
+    {
+        "merged": "D:\\ASWork\\BaseFrameWork\\app\\build\\intermediates\\res\\merged\\umeng\\debug\\drawable-hdpi-v4\\shadow_bottom.png",
+        "source": "D:\\ASWork\\BaseFrameWork\\app\\src\\main\\res\\drawable-hdpi\\shadow_bottom.png"
+    },
+    {
+        "merged": "D:\\ASWork\\BaseFrameWork\\app\\build\\intermediates\\res\\merged\\umeng\\debug\\drawable-hdpi-v4\\default_footprint_image.png",
+        "source": "D:\\ASWork\\BaseFrameWork\\app\\src\\main\\res\\drawable-hdpi\\default_footprint_image.png"
+    },
+    {
+        "merged": "D:\\ASWork\\BaseFrameWork\\app\\build\\intermediates\\res\\merged\\umeng\\debug\\drawable-hdpi-v4\\footprint_image_checkbox_unseclected.png",
+        "source": "D:\\ASWork\\BaseFrameWork\\app\\src\\main\\res\\drawable-hdpi\\footprint_image_checkbox_unseclected.png"
+    },
+    {
+        "merged": "D:\\ASWork\\BaseFrameWork\\app\\build\\intermediates\\res\\merged\\umeng\\debug\\drawable-hdpi-v4\\album_photo_select_dirname_rig.png",
+        "source": "D:\\ASWork\\BaseFrameWork\\app\\src\\main\\res\\drawable-hdpi\\album_photo_select_dirname_rig.png"
+    },
+    {
+        "merged": "D:\\ASWork\\BaseFrameWork\\app\\build\\intermediates\\res\\merged\\umeng\\debug\\drawable-hdpi-v4\\ssdk_oks_ptr_ptr.png",
+        "source": "D:\\ASWork\\BaseFrameWork\\app\\src\\main\\res\\drawable-hdpi\\ssdk_oks_ptr_ptr.png"
+    },
+    {
+        "merged": "D:\\ASWork\\BaseFrameWork\\app\\build\\intermediates\\res\\merged\\umeng\\debug\\drawable-hdpi-v4\\load_bg.png",
+        "source": "D:\\ASWork\\BaseFrameWork\\app\\src\\main\\res\\drawable-hdpi\\load_bg.png"
+    },
+    {
+        "merged": "D:\\ASWork\\BaseFrameWork\\app\\build\\intermediates\\res\\merged\\umeng\\debug\\drawable-hdpi-v4\\shadow_left.png",
+        "source": "D:\\ASWork\\BaseFrameWork\\app\\src\\main\\res\\drawable-hdpi\\shadow_left.png"
+    },
+    {
+        "merged": "D:\\ASWork\\BaseFrameWork\\app\\build\\intermediates\\res\\merged\\umeng\\debug\\drawable-hdpi-v4\\ic_launcher.png",
+        "source": "D:\\ASWork\\BaseFrameWork\\app\\src\\main\\res\\drawable-hdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "D:\\ASWork\\BaseFrameWork\\app\\build\\intermediates\\res\\merged\\umeng\\debug\\drawable-hdpi-v4\\footprint_image_checkbox_seclected.png",
+        "source": "D:\\ASWork\\BaseFrameWork\\app\\src\\main\\res\\drawable-hdpi\\footprint_image_checkbox_seclected.png"
+    },
+    {
+        "merged": "D:\\ASWork\\BaseFrameWork\\app\\build\\intermediates\\res\\merged\\umeng\\debug\\drawable-hdpi-v4\\ic_dir_choose.png",
+        "source": "D:\\ASWork\\BaseFrameWork\\app\\src\\main\\res\\drawable-hdpi\\ic_dir_choose.png"
+    },
+    {
+        "merged": "D:\\ASWork\\BaseFrameWork\\app\\build\\intermediates\\res\\merged\\umeng\\debug\\drawable-hdpi-v4\\shadow_right.png",
+        "source": "D:\\ASWork\\BaseFrameWork\\app\\src\\main\\res\\drawable-hdpi\\shadow_right.png"
+    }
+]

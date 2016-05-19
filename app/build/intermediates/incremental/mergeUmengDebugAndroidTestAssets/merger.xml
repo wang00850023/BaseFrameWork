@@ -1,0 +1,2 @@
+<?xml version="1.0" encoding="utf-8"?>
+<merger version="3"><dataSet config="main"><source path="D:\ASWork\BaseFrameWork\app\src\androidTest\assets"/><source path="D:\ASWork\BaseFrameWork\app\build\generated\assets\shaders\androidTest\umeng\debug"/></dataSet><dataSet config="umeng"><source path="D:\ASWork\BaseFrameWork\app\src\androidTestUmeng\assets"/></dataSet></merger>

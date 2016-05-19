@@ -1,0 +1,34 @@
+[
+    {
+        "merged": "D:\\ASWork\\BaseFrameWork\\app\\build\\intermediates\\res\\merged\\umeng\\debug\\drawable\\bg_layout_item.xml",
+        "source": "D:\\ASWork\\BaseFrameWork\\app\\src\\main\\res\\drawable\\bg_layout_item.xml"
+    },
+    {
+        "merged": "D:\\ASWork\\BaseFrameWork\\app\\build\\intermediates\\res\\merged\\umeng\\debug\\drawable\\ssdk_oks_skyblue_platform_list_item.xml",
+        "source": "D:\\ASWork\\BaseFrameWork\\app\\src\\main\\res\\drawable\\ssdk_oks_skyblue_platform_list_item.xml"
+    },
+    {
+        "merged": "D:\\ASWork\\BaseFrameWork\\app\\build\\intermediates\\res\\merged\\umeng\\debug\\drawable\\style_loadbg.xml",
+        "source": "D:\\ASWork\\BaseFrameWork\\app\\src\\main\\res\\drawable\\style_loadbg.xml"
+    },
+    {
+        "merged": "D:\\ASWork\\BaseFrameWork\\app\\build\\intermediates\\res\\merged\\umeng\\debug\\drawable\\ssdk_oks_skyblue_platform_list_item_selected.xml",
+        "source": "D:\\ASWork\\BaseFrameWork\\app\\src\\main\\res\\drawable\\ssdk_oks_skyblue_platform_list_item_selected.xml"
+    },
+    {
+        "merged": "D:\\ASWork\\BaseFrameWork\\app\\build\\intermediates\\res\\merged\\umeng\\debug\\drawable\\ssdk_oks_skyblue_platform_list_selector.xml",
+        "source": "D:\\ASWork\\BaseFrameWork\\app\\src\\main\\res\\drawable\\ssdk_oks_skyblue_platform_list_selector.xml"
+    },
+    {
+        "merged": "D:\\ASWork\\BaseFrameWork\\app\\build\\intermediates\\res\\merged\\umeng\\debug\\drawable\\background_tab.xml",
+        "source": "D:\\ASWork\\BaseFrameWork\\app\\src\\main\\res\\drawable\\background_tab.xml"
+    },
+    {
+        "merged": "D:\\ASWork\\BaseFrameWork\\app\\build\\intermediates\\res\\merged\\umeng\\debug\\drawable\\footprint_image_post_select_checkbox_bg.xml",
+        "source": "D:\\ASWork\\BaseFrameWork\\app\\src\\main\\res\\drawable\\footprint_image_post_select_checkbox_bg.xml"
+    },
+    {
+        "merged": "D:\\ASWork\\BaseFrameWork\\app\\build\\intermediates\\res\\merged\\umeng\\debug\\drawable\\ssdk_oks_classic_platform_corners_bg.xml",
+        "source": "D:\\ASWork\\BaseFrameWork\\app\\src\\main\\res\\drawable\\ssdk_oks_classic_platform_corners_bg.xml"
+    }
+]

@@ -1,0 +1,69 @@
+apply plugin: 'com.android.application'
+
+def cfg = rootProject.ext.configuration // 配置
+def libs = rootProject.ext.libraries // 库
+
+android {
+
+    compileSdkVersion cfg.compileVersion
+    buildToolsVersion cfg.buildToolsVersion
+
+    defaultConfig {
+        applicationId cfg.package
+        minSdkVersion cfg.minSdk
+        targetSdkVersion cfg.targetSdk
+        versionCode cfg.version_code
+        versionName cfg.version_name
+
+    }
+
+    buildTypes {
+        release {
+            minifyEnabled false
+            proguardFiles getDefaultProguardFile('proguard-android.txt'), 'proguard-rules.txt'
+        }
+    }
+
+    productFlavors {
+        yingyongbao {
+            manifestPlaceholders = [ UMENG_CHANNEL_VALUE:"YINGYONGBAO"]
+        }
+        umeng {
+            manifestPlaceholders = [ UMENG_CHANNEL_VALUE:"UMENG" ]
+        }
+        wandoujia {
+            manifestPlaceholders = [ UMENG_CHANNEL_VALUE:"WANDOUJIA" ]
+        }
+        productFlavors.all{
+            flavor->flavor.manifestPlaceholders = [UMENG_CHANNEL_VALUE: name]
+        }
+    }
+
+    // 注释冲突
+    packagingOptions {
+        exclude 'META-INF/services/javax.annotation.processing.Processor'
+    }
+}
+
+dependencies {
+
+    compile fileTree(dir: 'libs', include: ['*.jar'])
+    testCompile 'junit:junit:4.12'
+    compile 'com.android.support:support-v4:22.2.1'
+    compile "com.github.bumptech.glide:glide:${libs.glide}" // 图片处理
+    compile "com.github.orangegangsters:swipy:${libs.swipy}"//下拉刷新控件
+    compile "com.jakewharton:butterknife:${libs.butterknife}" // 资源注入
+
+    //retrofit and onhttp
+    compile "com.squareup.okhttp3:okhttp:${libs.okhttp}"
+    compile "com.squareup.retrofit2:retrofit:${libs.retrofit}"
+    compile "org.ligboy.retrofit2:converter-fastjson:${libs.retrofit}"
+    compile "com.squareup.retrofit2:adapter-rxjava:${libs.retrofit}"
+    //rxjava
+    compile "io.reactivex:rxandroid:${libs.rx}"
+    compile "io.reactivex:rxjava:${libs.rx}"
+
+}
+
+
+

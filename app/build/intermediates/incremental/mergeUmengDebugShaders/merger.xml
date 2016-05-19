@@ -1,0 +1,2 @@
+<?xml version="1.0" encoding="utf-8"?>
+<merger version="3"><dataSet config="main"><source path="D:\ASWork\BaseFrameWork\app\src\main\shaders"/></dataSet><dataSet config="umeng"><source path="D:\ASWork\BaseFrameWork\app\src\umeng\shaders"/></dataSet><dataSet config="debug"><source path="D:\ASWork\BaseFrameWork\app\src\debug\shaders"/></dataSet><dataSet config="umengDebug"><source path="D:\ASWork\BaseFrameWork\app\src\umengDebug\shaders"/></dataSet></merger>

@@ -1,0 +1,125 @@
+<?xml version="1.0" encoding="utf-8"?>
+<merger version="3"><dataSet config="1.1.0$Generated" generated="true"><source path="D:\ASWork\BaseFrameWork\app\build\intermediates\exploded-aar\io.reactivex\rxandroid\1.1.0\res"/></dataSet><dataSet config="1.2.3$Generated" generated="true"><source path="D:\ASWork\BaseFrameWork\app\build\intermediates\exploded-aar\com.github.orangegangsters\swipy\1.2.3\res"/></dataSet><dataSet config="22.2.1$Generated" generated="true"><source path="D:\ASWork\BaseFrameWork\app\build\intermediates\exploded-aar\com.android.support\support-v4\22.2.1\res"/></dataSet><dataSet config="main$Generated" generated="true"><source path="D:\ASWork\BaseFrameWork\app\src\main\res"/><source path="D:\ASWork\BaseFrameWork\app\build\generated\res\rs\umeng\debug"/><source path="D:\ASWork\BaseFrameWork\app\build\generated\res\resValues\umeng\debug"/></dataSet><dataSet config="umeng$Generated" generated="true"><source path="D:\ASWork\BaseFrameWork\app\src\umeng\res"/></dataSet><dataSet config="debug$Generated" generated="true"><source path="D:\ASWork\BaseFrameWork\app\src\debug\res"/></dataSet><dataSet config="umengDebug$Generated" generated="true"><source path="D:\ASWork\BaseFrameWork\app\src\umengDebug\res"/></dataSet><dataSet config="1.1.0" from-dependency="true" generated-set="1.1.0$Generated"><source path="D:\ASWork\BaseFrameWork\app\build\intermediates\exploded-aar\io.reactivex\rxandroid\1.1.0\res"/></dataSet><dataSet config="1.2.3" from-dependency="true" generated-set="1.2.3$Generated"><source path="D:\ASWork\BaseFrameWork\app\build\intermediates\exploded-aar\com.github.orangegangsters\swipy\1.2.3\res"><file path="D:\ASWork\BaseFrameWork\app\build\intermediates\exploded-aar\com.github.orangegangsters\swipy\1.2.3\res\values\values.xml" qualifiers=""><declare-styleable name="SwipyRefreshLayout"><attr name="srl_direction"><enum name="top" value="0"/><enum name="bottom" value="1"/><enum name="both" value="2"/></attr></declare-styleable></file></source></dataSet><dataSet config="22.2.1" from-dependency="true" generated-set="22.2.1$Generated"><source path="D:\ASWork\BaseFrameWork\app\build\intermediates\exploded-aar\com.android.support\support-v4\22.2.1\res"/></dataSet><dataSet config="main" generated-set="main$Generated"><source path="D:\ASWork\BaseFrameWork\app\src\main\res"><file name="back_lefttoright" path="D:\ASWork\BaseFrameWork\app\src\main\res\anim\back_lefttoright.xml" qualifiers="" type="anim"/><file name="back_righttoleft" path="D:\ASWork\BaseFrameWork\app\src\main\res\anim\back_righttoleft.xml" qualifiers="" type="anim"/><file name="photo_dir_slide_in" path="D:\ASWork\BaseFrameWork\app\src\main\res\anim\photo_dir_slide_in.xml" qualifiers="" type="anim"/><file name="photo_dir_slide_out" path="D:\ASWork\BaseFrameWork\app\src\main\res\anim\photo_dir_slide_out.xml" qualifiers="" type="anim"/><file name="pull_arrow_down" path="D:\ASWork\BaseFrameWork\app\src\main\res\anim\pull_arrow_down.xml" qualifiers="" type="anim"/><file name="pull_arrow_up" path="D:\ASWork\BaseFrameWork\app\src\main\res\anim\pull_arrow_up.xml" qualifiers="" type="anim"/><file name="slide_left_in" path="D:\ASWork\BaseFrameWork\app\src\main\res\anim\slide_left_in.xml" qualifiers="" type="anim"/><file name="slide_left_out" path="D:\ASWork\BaseFrameWork\app\src\main\res\anim\slide_left_out.xml" qualifiers="" type="anim"/><file name="slide_right_out" path="D:\ASWork\BaseFrameWork\app\src\main\res\anim\slide_right_out.xml" qualifiers="" type="anim"/><file name="background_tab" path="D:\ASWork\BaseFrameWork\app\src\main\res\drawable\background_tab.xml" qualifiers="" type="drawable"/><file name="bg_layout_item" path="D:\ASWork\BaseFrameWork\app\src\main\res\drawable\bg_layout_item.xml" qualifiers="" type="drawable"/><file name="footprint_image_post_select_checkbox_bg" path="D:\ASWork\BaseFrameWork\app\src\main\res\drawable\footprint_image_post_select_checkbox_bg.xml" qualifiers="" type="drawable"/><file name="ssdk_oks_classic_platform_corners_bg" path="D:\ASWork\BaseFrameWork\app\src\main\res\drawable\ssdk_oks_classic_platform_corners_bg.xml" qualifiers="" type="drawable"/><file name="ssdk_oks_skyblue_platform_list_item" path="D:\ASWork\BaseFrameWork\app\src\main\res\drawable\ssdk_oks_skyblue_platform_list_item.xml" qualifiers="" type="drawable"/><file name="ssdk_oks_skyblue_platform_list_item_selected" path="D:\ASWork\BaseFrameWork\app\src\main\res\drawable\ssdk_oks_skyblue_platform_list_item_selected.xml" qualifiers="" type="drawable"/><file name="ssdk_oks_skyblue_platform_list_selector" path="D:\ASWork\BaseFrameWork\app\src\main\res\drawable\ssdk_oks_skyblue_platform_list_selector.xml" qualifiers="" type="drawable"/><file name="style_loadbg" path="D:\ASWork\BaseFrameWork\app\src\main\res\drawable\style_loadbg.xml" qualifiers="" type="drawable"/><file name="album_photo_select_dirname_rig" path="D:\ASWork\BaseFrameWork\app\src\main\res\drawable-hdpi\album_photo_select_dirname_rig.png" qualifiers="hdpi-v4" type="drawable"/><file name="default_footprint_image" path="D:\ASWork\BaseFrameWork\app\src\main\res\drawable-hdpi\default_footprint_image.png" qualifiers="hdpi-v4" type="drawable"/><file name="footprint_image_checkbox_seclected" path="D:\ASWork\BaseFrameWork\app\src\main\res\drawable-hdpi\footprint_image_checkbox_seclected.png" qualifiers="hdpi-v4" type="drawable"/><file name="footprint_image_checkbox_unseclected" path="D:\ASWork\BaseFrameWork\app\src\main\res\drawable-hdpi\footprint_image_checkbox_unseclected.png" qualifiers="hdpi-v4" type="drawable"/><file name="ic_dir_choose" path="D:\ASWork\BaseFrameWork\app\src\main\res\drawable-hdpi\ic_dir_choose.png" qualifiers="hdpi-v4" type="drawable"/><file name="ic_launcher" path="D:\ASWork\BaseFrameWork\app\src\main\res\drawable-hdpi\ic_launcher.png" qualifiers="hdpi-v4" type="drawable"/><file name="load_bg" path="D:\ASWork\BaseFrameWork\app\src\main\res\drawable-hdpi\load_bg.png" qualifiers="hdpi-v4" type="drawable"/><file name="shadow_bottom" path="D:\ASWork\BaseFrameWork\app\src\main\res\drawable-hdpi\shadow_bottom.png" qualifiers="hdpi-v4" type="drawable"/><file name="shadow_left" path="D:\ASWork\BaseFrameWork\app\src\main\res\drawable-hdpi\shadow_left.png" qualifiers="hdpi-v4" type="drawable"/><file name="shadow_right" path="D:\ASWork\BaseFrameWork\app\src\main\res\drawable-hdpi\shadow_right.png" qualifiers="hdpi-v4" type="drawable"/><file name="ssdk_oks_ptr_ptr" path="D:\ASWork\BaseFrameWork\app\src\main\res\drawable-hdpi\ssdk_oks_ptr_ptr.png" qualifiers="hdpi-v4" type="drawable"/><file name="ic_launcher" path="D:\ASWork\BaseFrameWork\app\src\main\res\drawable-mdpi\ic_launcher.png" qualifiers="mdpi-v4" type="drawable"/><file name="ic_launcher" path="D:\ASWork\BaseFrameWork\app\src\main\res\drawable-xhdpi\ic_launcher.png" qualifiers="xhdpi-v4" type="drawable"/><file name="album_photo_list_grid_item" path="D:\ASWork\BaseFrameWork\app\src\main\res\layout\album_photo_list_grid_item.xml" qualifiers="" type="layout"/><file name="album_photo_list_grid_item2" path="D:\ASWork\BaseFrameWork\app\src\main\res\layout\album_photo_list_grid_item2.xml" qualifiers="" type="layout"/><file name="dialog_load" path="D:\ASWork\BaseFrameWork\app\src\main\res\layout\dialog_load.xml" qualifiers="" type="layout"/><file name="login" path="D:\ASWork\BaseFrameWork\app\src\main\res\layout\login.xml" qualifiers="" type="layout"/><file name="mian" path="D:\ASWork\BaseFrameWork\app\src\main\res\layout\mian.xml" qualifiers="" type="layout"/><file name="photo_ablun_list_dir" path="D:\ASWork\BaseFrameWork\app\src\main\res\layout\photo_ablun_list_dir.xml" qualifiers="" type="layout"/><file name="photo_ablun_list_dir_item" path="D:\ASWork\BaseFrameWork\app\src\main\res\layout\photo_ablun_list_dir_item.xml" qualifiers="" type="layout"/><file name="photo_album_list_layout" path="D:\ASWork\BaseFrameWork\app\src\main\res\layout\photo_album_list_layout.xml" qualifiers="" type="layout"/><file path="D:\ASWork\BaseFrameWork\app\src\main\res\values\attrs.xml" qualifiers=""><attr format="boolean" name="fits_windows"/><declare-styleable name="PagerSlidingTabStrip">
+        <attr format="color" name="pstsIndicatorColor"/>
+        <attr format="color" name="pstsUnderlineColor"/>
+        <attr format="color" name="pstsDividerColor"/>
+        <attr format="dimension" name="pstsIndicatorHeight"/>
+        <attr format="dimension" name="pstsUnderlineHeight"/>
+        <attr format="dimension" name="pstsDividerPadding"/>
+        <attr format="dimension" name="pstsTabPaddingLeftRight"/>
+        <attr format="dimension" name="pstsScrollOffset"/>
+        <attr format="reference" name="pstsTabBackground"/>
+        <attr format="boolean" name="pstsShouldExpand"/>
+        <attr format="boolean" name="pstsTextAllCaps"/>
+    </declare-styleable><declare-styleable name="RoundedImageView">
+        <attr format="dimension" name="cornersRadius"/>
+        <attr format="dimension" name="riv_border_width"/>
+        <attr format="color" name="riv_border_color"/>
+        <attr format="boolean" name="riv_mutate_background"/>
+        <attr format="boolean" name="riv_oval"/>
+        <attr name="android:scaleType"/>
+        <attr name="riv_tile_mode">
+            <enum name="clamp" value="0"/>
+            <enum name="repeat" value="1"/>
+            <enum name="mirror" value="2"/>
+        </attr>
+        <attr name="riv_tile_mode_x">
+            <enum name="clamp" value="0"/>
+            <enum name="repeat" value="1"/>
+            <enum name="mirror" value="2"/>
+        </attr>
+        <attr name="riv_tile_mode_y">
+            <enum name="clamp" value="0"/>
+            <enum name="repeat" value="1"/>
+            <enum name="mirror" value="2"/>
+        </attr>
+    </declare-styleable><declare-styleable name="SwipyRefreshLayout">
+        <attr name="direction">
+            <enum name="top" value="0"/>
+            <enum name="bottom" value="1"/>
+            <enum name="both" value="2"/>
+        </attr>
+    </declare-styleable><declare-styleable name="FloatingActionButton">
+        <attr format="color" name="fab_colorPressed"/>
+        <attr format="color" name="fab_colorDisabled"/>
+        <attr format="color" name="fab_colorNormal"/>
+        <attr format="reference" name="fab_icon"/>
+        <attr format="enum" name="fab_size">
+            <enum name="normal" value="0"/>
+            <enum name="mini" value="1"/>
+        </attr>
+        <attr format="string" name="fab_title"/>
+        <attr format="boolean" name="fab_stroke_visible"/>
+    </declare-styleable><declare-styleable name="ScrimInsetsView">
+        <attr format="reference|color" name="insetForeground"/>
+    </declare-styleable><declare-styleable name="FloatingActionsMenu">
+        <attr format="color" name="fab_addButtonColorPressed"/>
+        <attr format="color" name="fab_addButtonColorNormal"/>
+        <attr format="enum" name="fab_addButtonSize">
+            <enum name="normal" value="0"/>
+            <enum name="mini" value="1"/>
+        </attr>
+        <attr format="color" name="fab_addButtonPlusIconColor"/>
+        <attr format="boolean" name="fab_addButtonStrokeVisible"/>
+        <attr format="reference" name="fab_labelStyle"/>
+        <attr format="enum" name="fab_labelsPosition">
+            <enum name="left" value="0"/>
+            <enum name="right" value="1"/>
+        </attr>
+        <attr format="enum" name="fab_expandDirection">
+            <enum name="up" value="0"/>
+            <enum name="down" value="1"/>
+            <enum name="left" value="2"/>
+            <enum name="right" value="3"/>
+        </attr>
+    </declare-styleable><declare-styleable name="AddFloatingActionButton">
+        <attr format="color" name="fab_plusIconColor"/>
+    </declare-styleable><attr format="reference|color" name="theme_statusbar_color"/><attr format="reference|color" name="theme_color"/><declare-styleable name="FlowIndicator">
+        <attr format="dimension" name="space"/>
+        <attr format="dimension" name="point_size"/>
+        <attr format="color|reference" name="point_seleted_color"/>
+        <attr format="color|reference" name="point_normal_color"/>
+        <attr format="dimension" name="point_radius"/>
+    </declare-styleable></file><file path="D:\ASWork\BaseFrameWork\app\src\main\res\values\color.xml" qualifiers=""><color name="viewfinder_frame">#ff88ae00</color><color name="lightgray">#ffd3d3d3</color><color name="common_title_bar_bom_color">#C8C8C8</color><color name="subscribe_line_color_night">#ff464646</color><color name="titlebar_pressed">#29a6a0</color><color name="orange">#FF7F00</color><color name="default_text_night">#ff747474</color><color name="common_title_bar_pressed_color">#41a5f1</color><color name="black">#000000</color><color name="commtitle_bar_bg">#F6F6F6</color><color name="transparent">#00000000</color><color name="gallery_alpha">#b0000000</color><color name="subscribe_icon_day">#ff444444</color><color name="title_huise">#666666</color><color name="common_title_bar_bom_startcolor">#FF9900</color><color name="sns_comment_text">#ff576b95</color><color name="share_text">#ff000000</color><color name="silver">#ffc0c0c0</color><color name="gallery_background">#ff111111</color><color name="share_view">#ffffffff</color><color name="titlebar_bg">#1398ff</color><color name="subscribe_tip_text">#ff2e2e2e</color><color name="red">#ffff0000</color><color name="sns_zan_text">#7888a9</color><color name="background_tab_pressed">#6633B5E5</color><color name="gray">#ff808080</color><color name="bulue">#2b83fe</color><color name="darkgray">#ffa9a9a9</color><color name="common_title_bar">#F06932</color><color name="subscribe_bg_night">#ff252525</color><color name="sandybrown">#fff4a460</color><color name="white">#ffffff</color><color name="subscribe_bg">#fff5f5f5</color><color name="ldrawer_color">#FFFFFF</color><color name="viewfinder_mask">#60000000</color><color name="common_title_bar_bom_endcolor">#FF6600</color><color name="activity_bg">#f2f2f2</color><color name="dimgray">#ff696969</color><color name="lighter_gray">#ffd3d3d3</color><color name="huise">#f3f3f3</color><color name="viewfinder_laser">#ffff0000</color><color name="subscribe_line_color">#ffd9d9d9</color></file><file path="D:\ASWork\BaseFrameWork\app\src\main\res\values\dimens.xml" qualifiers=""><dimen name="fab_labels_margin">8dp</dimen><dimen name="navigation_drawer_width">200dp</dimen><dimen name="fab_actions_spacing">16dp</dimen><dimen name="fab_plus_icon_size">14dp</dimen><dimen name="layout_status_bar_offset">0dp</dimen><dimen name="fab_plus_icon_stroke">2dp</dimen><dimen name="fab_icon_size">24dp</dimen><dimen name="toolbar_height">56dp</dimen><dimen name="main_layout_status_bar_offset">0dip</dimen><dimen name="fab_size_normal">56dp</dimen><dimen name="drawer_layout_status_bar_offset">0dp</dimen><dimen name="fab_shadow_radius">9dp</dimen><dimen name="common_title_ico_height">45dip</dimen><dimen name="fab_size_mini">40dp</dimen><dimen name="fab_shadow_offset">3dp</dimen><dimen name="common_title_ico_width">45dip</dimen><dimen name="nav_drawer_status_bar_offset">0dp</dimen><dimen name="fab_stroke_width">1dp</dimen></file><file path="D:\ASWork\BaseFrameWork\app\src\main\res\values\strings.xml" qualifiers=""><string name="app_name">BaseFrameWork</string></file><file path="D:\ASWork\BaseFrameWork\app\src\main\res\values\styles.xml" qualifiers=""><style name="dialog" parent="android:style/Theme.Dialog">
+        <item name="android:windowFrame">@null</item>
+        <item name="android:windowIsFloating">true</item>
+        <item name="android:windowIsTranslucent">true</item>
+        <item name="android:backgroundDimEnabled">true</item>
+        <item name="android:windowNoTitle">true</item>
+        <item name="android:windowBackground">@null</item>
+    </style><style name="loaddialog" parent="android:Theme.Dialog">
+        <item name="android:backgroundDimAmount">0.6</item>
+        <item name="android:windowBackground">@color/transparent</item>
+        <item name="android:windowFrame">@null</item>
+        <item name="android:windowNoTitle">true</item>
+        <item name="android:windowIsFloating">true</item>
+        <item name="android:windowIsTranslucent">false</item>
+        <item name="android:backgroundDimEnabled">false</item>
+    </style><style name="photo_dir_anim_popup_dir">
+    </style><style name="AppTheme.Main">
+        <item name="android:windowIsTranslucent">false</item>
+    </style><style name="AppTheme.Transparent" parent="AppTheme.Base">
+        <item name="android:windowBackground">@color/transparent</item>
+    </style><style name="AppTheme.Base" parent="@android:style/Theme.DeviceDefault.Light.NoActionBar">
+        <item name="android:windowBackground">@color/white</item>
+        <item name="theme_color">@color/titlebar_bg</item>
+        <item name="theme_statusbar_color">@color/titlebar_bg</item>
+        <item name="android:windowIsTranslucent">true</item>
+        <item name="fits_windows">false</item>
+    </style><style name="AppTheme" parent="AppTheme.Base"/></file><file path="D:\ASWork\BaseFrameWork\app\src\main\res\values\swipe_styles.xml" qualifiers=""><declare-styleable name="SwipeBackLayout">
+        <attr format="dimension" name="edge_size"/>
+        <attr name="edge_flag">
+            <enum name="left" value="0"/>
+            <enum name="right" value="1"/>
+            <enum name="bottom" value="2"/>
+            <enum name="all" value="3"/>
+        </attr>
+        <attr format="reference" name="shadow_left"/>
+        <attr format="reference" name="shadow_right"/>
+        <attr format="reference" name="shadow_bottom"/>
+    </declare-styleable><style name="SwipeBackLayout">
+        <item name="edge_size">50dip</item>
+        <item name="shadow_left">@drawable/shadow_left</item>
+        <item name="shadow_right">@drawable/shadow_right</item>
+        <item name="shadow_bottom">@drawable/shadow_bottom</item>
+    </style><attr format="reference" name="SwipeBackLayoutStyle"/></file></source><source path="D:\ASWork\BaseFrameWork\app\build\generated\res\rs\umeng\debug"/><source path="D:\ASWork\BaseFrameWork\app\build\generated\res\resValues\umeng\debug"/></dataSet><dataSet config="umeng" generated-set="umeng$Generated"><source path="D:\ASWork\BaseFrameWork\app\src\umeng\res"/></dataSet><dataSet config="debug" generated-set="debug$Generated"><source path="D:\ASWork\BaseFrameWork\app\src\debug\res"/></dataSet><dataSet config="umengDebug" generated-set="umengDebug$Generated"><source path="D:\ASWork\BaseFrameWork\app\src\umengDebug\res"/></dataSet><mergedItems><configuration qualifiers=""><declare-styleable name="SwipyRefreshLayout"><attr name="srl_direction"><enum name="top" value="0"/><enum name="bottom" value="1"/><enum name="both" value="2"/></attr><attr name="direction"><enum name="top" value="0"/><enum name="bottom" value="1"/><enum name="both" value="2"/></attr></declare-styleable><declare-styleable name="PagerSlidingTabStrip"><attr format="color" name="pstsIndicatorColor"/><attr format="color" name="pstsUnderlineColor"/><attr format="color" name="pstsDividerColor"/><attr format="dimension" name="pstsIndicatorHeight"/><attr format="dimension" name="pstsUnderlineHeight"/><attr format="dimension" name="pstsDividerPadding"/><attr format="dimension" name="pstsTabPaddingLeftRight"/><attr format="dimension" name="pstsScrollOffset"/><attr format="reference" name="pstsTabBackground"/><attr format="boolean" name="pstsShouldExpand"/><attr format="boolean" name="pstsTextAllCaps"/></declare-styleable><declare-styleable name="FlowIndicator"><attr format="dimension" name="space"/><attr format="dimension" name="point_size"/><attr format="color|reference" name="point_seleted_color"/><attr format="color|reference" name="point_normal_color"/><attr format="dimension" name="point_radius"/></declare-styleable><declare-styleable name="AddFloatingActionButton"><attr format="color" name="fab_plusIconColor"/></declare-styleable><declare-styleable name="ScrimInsetsView"><attr format="reference|color" name="insetForeground"/></declare-styleable><declare-styleable name="SwipeBackLayout"><attr format="dimension" name="edge_size"/><attr name="edge_flag"><enum name="left" value="0"/><enum name="right" value="1"/><enum name="bottom" value="2"/><enum name="all" value="3"/></attr><attr format="reference" name="shadow_left"/><attr format="reference" name="shadow_right"/><attr format="reference" name="shadow_bottom"/></declare-styleable><declare-styleable name="RoundedImageView"><attr format="dimension" name="cornersRadius"/><attr format="dimension" name="riv_border_width"/><attr format="color" name="riv_border_color"/><attr format="boolean" name="riv_mutate_background"/><attr format="boolean" name="riv_oval"/><attr name="android:scaleType"/><attr name="riv_tile_mode"><enum name="clamp" value="0"/><enum name="repeat" value="1"/><enum name="mirror" value="2"/></attr><attr name="riv_tile_mode_x"><enum name="clamp" value="0"/><enum name="repeat" value="1"/><enum name="mirror" value="2"/></attr><attr name="riv_tile_mode_y"><enum name="clamp" value="0"/><enum name="repeat" value="1"/><enum name="mirror" value="2"/></attr></declare-styleable><declare-styleable name="FloatingActionButton"><attr format="color" name="fab_colorPressed"/><attr format="color" name="fab_colorDisabled"/><attr format="color" name="fab_colorNormal"/><attr format="reference" name="fab_icon"/><attr format="enum" name="fab_size"><enum name="normal" value="0"/><enum name="mini" value="1"/></attr><attr format="string" name="fab_title"/><attr format="boolean" name="fab_stroke_visible"/></declare-styleable><declare-styleable name="FloatingActionsMenu"><attr format="color" name="fab_addButtonColorPressed"/><attr format="color" name="fab_addButtonColorNormal"/><attr format="enum" name="fab_addButtonSize"><enum name="normal" value="0"/><enum name="mini" value="1"/></attr><attr format="color" name="fab_addButtonPlusIconColor"/><attr format="boolean" name="fab_addButtonStrokeVisible"/><attr format="reference" name="fab_labelStyle"/><attr format="enum" name="fab_labelsPosition"><enum name="left" value="0"/><enum name="right" value="1"/></attr><attr format="enum" name="fab_expandDirection"><enum name="up" value="0"/><enum name="down" value="1"/><enum name="left" value="2"/><enum name="right" value="3"/></attr></declare-styleable></configuration></mergedItems></merger>

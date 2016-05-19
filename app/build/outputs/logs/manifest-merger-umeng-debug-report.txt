@@ -1,0 +1,122 @@
+-- Merging decision tree log ---
+manifest
+ADDED from D:\ASWork\BaseFrameWork\app\src\main\AndroidManifest.xml:1:1-72:12
+	xmlns:android
+		ADDED from D:\ASWork\BaseFrameWork\app\src\main\AndroidManifest.xml:1:11-69
+	package
+		ADDED from D:\ASWork\BaseFrameWork\app\src\main\AndroidManifest.xml:2:5-36
+		INJECTED from D:\ASWork\BaseFrameWork\app\src\main\AndroidManifest.xml
+		INJECTED from D:\ASWork\BaseFrameWork\app\src\main\AndroidManifest.xml
+	android:versionName
+		ADDED from D:\ASWork\BaseFrameWork\app\src\main\AndroidManifest.xml:4:5-30
+		INJECTED from D:\ASWork\BaseFrameWork\app\src\main\AndroidManifest.xml
+		INJECTED from D:\ASWork\BaseFrameWork\app\src\main\AndroidManifest.xml
+	android:versionCode
+		ADDED from D:\ASWork\BaseFrameWork\app\src\main\AndroidManifest.xml:3:5-28
+		INJECTED from D:\ASWork\BaseFrameWork\app\src\main\AndroidManifest.xml
+		INJECTED from D:\ASWork\BaseFrameWork\app\src\main\AndroidManifest.xml
+uses-sdk
+ADDED from D:\ASWork\BaseFrameWork\app\src\main\AndroidManifest.xml:6:5-8:41
+MERGED from [com.android.support:support-v4:22.2.1] D:\ASWork\BaseFrameWork\app\build\intermediates\exploded-aar\com.android.support\support-v4\22.2.1\AndroidManifest.xml:20:5-43
+MERGED from [com.github.orangegangsters:swipy:1.2.3] D:\ASWork\BaseFrameWork\app\build\intermediates\exploded-aar\com.github.orangegangsters\swipy\1.2.3\AndroidManifest.xml:7:5-9:41
+MERGED from [com.jakewharton:butterknife:8.0.1] D:\ASWork\BaseFrameWork\app\build\intermediates\exploded-aar\com.jakewharton\butterknife\8.0.1\AndroidManifest.xml:5:5-43
+MERGED from [io.reactivex:rxandroid:1.1.0] D:\ASWork\BaseFrameWork\app\build\intermediates\exploded-aar\io.reactivex\rxandroid\1.1.0\AndroidManifest.xml:19:5-43
+	android:targetSdkVersion
+		ADDED from D:\ASWork\BaseFrameWork\app\src\main\AndroidManifest.xml:8:9-38
+		INJECTED from D:\ASWork\BaseFrameWork\app\src\main\AndroidManifest.xml
+		INJECTED from D:\ASWork\BaseFrameWork\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		ADDED from D:\ASWork\BaseFrameWork\app\src\main\AndroidManifest.xml:7:9-34
+		INJECTED from D:\ASWork\BaseFrameWork\app\src\main\AndroidManifest.xml
+		INJECTED from D:\ASWork\BaseFrameWork\app\src\main\AndroidManifest.xml
+application
+ADDED from D:\ASWork\BaseFrameWork\app\src\main\AndroidManifest.xml:10:5-69:19
+MERGED from [com.android.support:support-v4:22.2.1] D:\ASWork\BaseFrameWork\app\build\intermediates\exploded-aar\com.android.support\support-v4\22.2.1\AndroidManifest.xml:22:5-20
+MERGED from [com.github.orangegangsters:swipy:1.2.3] D:\ASWork\BaseFrameWork\app\build\intermediates\exploded-aar\com.github.orangegangsters\swipy\1.2.3\AndroidManifest.xml:11:5-12:19
+	android:label
+		ADDED from D:\ASWork\BaseFrameWork\app\src\main\AndroidManifest.xml:13:9-41
+	android:allowBackup
+		ADDED from D:\ASWork\BaseFrameWork\app\src\main\AndroidManifest.xml:11:9-35
+	android:icon
+		ADDED from D:\ASWork\BaseFrameWork\app\src\main\AndroidManifest.xml:12:9-45
+	android:theme
+		ADDED from D:\ASWork\BaseFrameWork\app\src\main\AndroidManifest.xml:14:9-40
+activity#com.baseapp.framework.activity.LoginActivity
+ADDED from D:\ASWork\BaseFrameWork\app\src\main\AndroidManifest.xml:17:9-27:20
+	android:screenOrientation
+		ADDED from D:\ASWork\BaseFrameWork\app\src\main\AndroidManifest.xml:20:13-49
+	android:configChanges
+		ADDED from D:\ASWork\BaseFrameWork\app\src\main\AndroidManifest.xml:19:13-87
+	android:name
+		ADDED from D:\ASWork\BaseFrameWork\app\src\main\AndroidManifest.xml:18:13-51
+intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
+ADDED from D:\ASWork\BaseFrameWork\app\src\main\AndroidManifest.xml:22:13-26:29
+action#android.intent.action.MAIN
+ADDED from D:\ASWork\BaseFrameWork\app\src\main\AndroidManifest.xml:23:17-69
+	android:name
+		ADDED from D:\ASWork\BaseFrameWork\app\src\main\AndroidManifest.xml:23:25-66
+category#android.intent.category.LAUNCHER
+ADDED from D:\ASWork\BaseFrameWork\app\src\main\AndroidManifest.xml:25:17-77
+	android:name
+		ADDED from D:\ASWork\BaseFrameWork\app\src\main\AndroidManifest.xml:25:27-74
+activity#com.baseapp.framework.activity.MainActivity
+ADDED from D:\ASWork\BaseFrameWork\app\src\main\AndroidManifest.xml:28:9-34:20
+	android:screenOrientation
+		ADDED from D:\ASWork\BaseFrameWork\app\src\main\AndroidManifest.xml:31:13-49
+	android:configChanges
+		ADDED from D:\ASWork\BaseFrameWork\app\src\main\AndroidManifest.xml:30:13-87
+	android:name
+		ADDED from D:\ASWork\BaseFrameWork\app\src\main\AndroidManifest.xml:29:13-50
+meta-data#UMENG_CHANNEL
+ADDED from D:\ASWork\BaseFrameWork\app\src\main\AndroidManifest.xml:36:9-38:54
+	android:name
+		ADDED from D:\ASWork\BaseFrameWork\app\src\main\AndroidManifest.xml:37:13-41
+	android:value
+		ADDED from D:\ASWork\BaseFrameWork\app\src\main\AndroidManifest.xml:38:13-51
+		INJECTED from D:\ASWork\BaseFrameWork\app\src\main\AndroidManifest.xml
+meta-data#BaiduMobAd_STAT_ID
+ADDED from D:\ASWork\BaseFrameWork\app\src\main\AndroidManifest.xml:40:9-42:42
+	android:name
+		ADDED from D:\ASWork\BaseFrameWork\app\src\main\AndroidManifest.xml:41:13-46
+	android:value
+		ADDED from D:\ASWork\BaseFrameWork\app\src\main\AndroidManifest.xml:42:13-39
+meta-data#BaiduMobAd_EXCEPTION_LOG
+ADDED from D:\ASWork\BaseFrameWork\app\src\main\AndroidManifest.xml:44:9-46:36
+	android:name
+		ADDED from D:\ASWork\BaseFrameWork\app\src\main\AndroidManifest.xml:45:13-52
+	android:value
+		ADDED from D:\ASWork\BaseFrameWork\app\src\main\AndroidManifest.xml:46:13-33
+meta-data#BaiduMobAd_SEND_STRATEGY
+ADDED from D:\ASWork\BaseFrameWork\app\src\main\AndroidManifest.xml:48:9-50:41
+	android:name
+		ADDED from D:\ASWork\BaseFrameWork\app\src\main\AndroidManifest.xml:49:13-52
+	android:value
+		ADDED from D:\ASWork\BaseFrameWork\app\src\main\AndroidManifest.xml:50:13-38
+meta-data#BaiduMobAd_ONLY_WIFI
+ADDED from D:\ASWork\BaseFrameWork\app\src\main\AndroidManifest.xml:54:9-56:37
+	android:name
+		ADDED from D:\ASWork\BaseFrameWork\app\src\main\AndroidManifest.xml:55:13-48
+	android:value
+		ADDED from D:\ASWork\BaseFrameWork\app\src\main\AndroidManifest.xml:56:13-34
+meta-data#BaiduMobAd_CELL_LOCATION
+ADDED from D:\ASWork\BaseFrameWork\app\src\main\AndroidManifest.xml:58:9-60:36
+	android:name
+		ADDED from D:\ASWork\BaseFrameWork\app\src\main\AndroidManifest.xml:59:13-52
+	android:value
+		ADDED from D:\ASWork\BaseFrameWork\app\src\main\AndroidManifest.xml:60:13-33
+meta-data#BaiduMobAd_GPS_LOCATION
+ADDED from D:\ASWork\BaseFrameWork\app\src\main\AndroidManifest.xml:62:9-64:36
+	android:name
+		ADDED from D:\ASWork\BaseFrameWork\app\src\main\AndroidManifest.xml:63:13-51
+	android:value
+		ADDED from D:\ASWork\BaseFrameWork\app\src\main\AndroidManifest.xml:64:13-33
+meta-data#BaiduMobAd_WIFI_LOCATION
+ADDED from D:\ASWork\BaseFrameWork\app\src\main\AndroidManifest.xml:66:9-68:36
+	android:name
+		ADDED from D:\ASWork\BaseFrameWork\app\src\main\AndroidManifest.xml:67:13-52
+	android:value
+		ADDED from D:\ASWork\BaseFrameWork\app\src\main\AndroidManifest.xml:68:13-33
+uses-permission#android.permission.INTERNET
+ADDED from D:\ASWork\BaseFrameWork\app\src\main\AndroidManifest.xml:70:5-67
+	android:name
+		ADDED from D:\ASWork\BaseFrameWork\app\src\main\AndroidManifest.xml:70:22-64

@@ -1,0 +1,47 @@
+<resources xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <style name="AppTheme.Base" parent="@android:style/Theme.DeviceDefault.Light.NoActionBar">
+        <item name="android:windowBackground">@color/white</item>
+        <item name="theme_color">@color/titlebar_bg</item>
+        <item name="theme_statusbar_color">@color/titlebar_bg</item>
+        <item name="android:windowIsTranslucent">true</item>
+        <item name="fits_windows">false</item>
+    </style>
+    
+    <!-- 透明主题 -->
+    <style name="AppTheme.Transparent" parent="AppTheme.Base">
+        <item name="android:windowBackground">@color/transparent</item>
+    </style>
+
+
+    <style name="AppTheme" parent="AppTheme.Base"></style>
+
+    <style name="AppTheme.Main">
+        <item name="android:windowIsTranslucent">false</item>
+    </style>
+
+
+    <style name="loaddialog" parent="android:Theme.Dialog">
+        <item name="android:backgroundDimAmount">0.6</item>
+        <item name="android:windowBackground">@color/transparent</item>
+        <item name="android:windowFrame">@null</item>
+        <item name="android:windowNoTitle">true</item>
+        <item name="android:windowIsFloating">true</item>
+        <item name="android:windowIsTranslucent">false</item>
+        <item name="android:backgroundDimEnabled">false</item>
+    </style>
+
+    <style name="photo_dir_anim_popup_dir">
+    </style>
+
+
+    <style name="dialog" parent="android:style/Theme.Dialog">
+        <item name="android:windowFrame">@null</item>
+        <item name="android:windowIsFloating">true</item>
+        <item name="android:windowIsTranslucent">true</item>
+        <item name="android:backgroundDimEnabled">true</item>
+        <item name="android:windowNoTitle">true</item>
+        <item name="android:windowBackground">@null</item>
+    </style>
+
+</resources>

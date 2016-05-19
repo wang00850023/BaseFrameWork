@@ -1,0 +1,39 @@
+// Top-level build file where you can add configuration options common to all sub-projects/modules.
+ext {
+    configuration = [
+            package          : "com.baseapp.framework",
+            buildToolsVersion: "23.0.2",
+            compileVersion   : 21,
+            minSdk           : 14,
+            targetSdk        : 21,
+            version_code     : 2,
+            version_name     : "2.0.0",
+    ]
+
+    libraries = [
+            glide   : "3.6.1",
+            retrofit    : "2.0.2",
+            okhttp    : "3.2.0",
+            rx :"1.1.0",
+            swipy :"1.2.3@aar",
+            butterknife : "8.0.1",
+            dagger            : "2.0",
+    ]
+}
+
+
+buildscript {
+    repositories {
+        jcenter()
+    }
+    dependencies {
+        classpath 'com.android.tools.build:gradle:2.1.0'
+
+    }
+}
+
+allprojects {
+    repositories {
+        jcenter()
+    }
+}

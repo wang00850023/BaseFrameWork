@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+ <color name="background_tab_pressed">#6633B5E5</color>
+    <color name="ldrawer_color">#FFFFFF</color>
+    <color name="titlebar_bg">#1398ff</color>
+    <color name="titlebar_pressed">#29a6a0</color>
+    <color name="bulue">#2b83fe</color>
+    <color name="white">#ffffff</color>
+    <color name="black">#000000</color>
+    <color name="huise">#f3f3f3</color>
+    <color name="orange">#FF7F00</color>
+    <color name="activity_bg">#f2f2f2</color>
+    <color name="share_text">#ff000000</color>
+    <color name="share_view">#ffffffff</color>
+       <color name="commtitle_bar_bg">#F6F6F6</color>
+    <color name="transparent">#00000000</color>
+    
+    <color name="viewfinder_frame">#ff88ae00</color>
+    <color name="viewfinder_laser">#ffff0000</color>
+    <color name="viewfinder_mask">#60000000</color>
+    <color name="title_huise">#666666</color>
+    <color name="common_title_bar">#F06932</color>
+    <color name="common_title_bar_pressed_color">#41a5f1</color>
+    <color name="common_title_bar_bom_startcolor">#FF9900</color>
+    <color name="common_title_bar_bom_endcolor">#FF6600</color>
+    <color name="common_title_bar_bom_color">#C8C8C8</color>
+    <color name="subscribe_line_color">#ffd9d9d9</color>
+    <color name="subscribe_line_color_night">#ff464646</color>
+    <color name="subscribe_bg">#fff5f5f5</color>
+    <color name="subscribe_bg_night">#ff252525</color>
+    <color name="subscribe_icon_day">#ff444444</color>
+    <color name="subscribe_tip_text">#ff2e2e2e</color>
+    <color name="default_text_night">#ff747474</color>
+    <color name="sns_comment_text">#ff576b95</color>
+    <color name="sns_zan_text">#7888a9</color>
+   
+
+
+    <color name="gallery_background">#ff111111</color>
+    <color name="gallery_alpha">#b0000000</color>
+    <color name="lighter_gray">#ffd3d3d3</color>
+    <color name="gray">#ff808080</color>
+    <color name="darkgray">#ffa9a9a9</color>
+    <color name="lightgray">#ffd3d3d3</color>
+    <color name="sandybrown">#fff4a460</color>
+    <color name="dimgray">#ff696969</color>
+    <color name="silver">#ffc0c0c0</color>
+    <color name="red">#ffff0000</color>
+
+
+  
+
+</resources>

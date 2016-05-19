@@ -1,0 +1,34 @@
+[
+    {
+        "merged": "D:\\ASWork\\BaseFrameWork\\app\\build\\intermediates\\res\\merged\\umeng\\debug\\layout\\album_photo_list_grid_item.xml",
+        "source": "D:\\ASWork\\BaseFrameWork\\app\\src\\main\\res\\layout\\album_photo_list_grid_item.xml"
+    },
+    {
+        "merged": "D:\\ASWork\\BaseFrameWork\\app\\build\\intermediates\\res\\merged\\umeng\\debug\\layout\\dialog_load.xml",
+        "source": "D:\\ASWork\\BaseFrameWork\\app\\src\\main\\res\\layout\\dialog_load.xml"
+    },
+    {
+        "merged": "D:\\ASWork\\BaseFrameWork\\app\\build\\intermediates\\res\\merged\\umeng\\debug\\layout\\photo_album_list_layout.xml",
+        "source": "D:\\ASWork\\BaseFrameWork\\app\\src\\main\\res\\layout\\photo_album_list_layout.xml"
+    },
+    {
+        "merged": "D:\\ASWork\\BaseFrameWork\\app\\build\\intermediates\\res\\merged\\umeng\\debug\\layout\\login.xml",
+        "source": "D:\\ASWork\\BaseFrameWork\\app\\src\\main\\res\\layout\\login.xml"
+    },
+    {
+        "merged": "D:\\ASWork\\BaseFrameWork\\app\\build\\intermediates\\res\\merged\\umeng\\debug\\layout\\album_photo_list_grid_item2.xml",
+        "source": "D:\\ASWork\\BaseFrameWork\\app\\src\\main\\res\\layout\\album_photo_list_grid_item2.xml"
+    },
+    {
+        "merged": "D:\\ASWork\\BaseFrameWork\\app\\build\\intermediates\\res\\merged\\umeng\\debug\\layout\\photo_ablun_list_dir_item.xml",
+        "source": "D:\\ASWork\\BaseFrameWork\\app\\src\\main\\res\\layout\\photo_ablun_list_dir_item.xml"
+    },
+    {
+        "merged": "D:\\ASWork\\BaseFrameWork\\app\\build\\intermediates\\res\\merged\\umeng\\debug\\layout\\photo_ablun_list_dir.xml",
+        "source": "D:\\ASWork\\BaseFrameWork\\app\\src\\main\\res\\layout\\photo_ablun_list_dir.xml"
+    },
+    {
+        "merged": "D:\\ASWork\\BaseFrameWork\\app\\build\\intermediates\\res\\merged\\umeng\\debug\\layout\\mian.xml",
+        "source": "D:\\ASWork\\BaseFrameWork\\app\\src\\main\\res\\layout\\mian.xml"
+    }
+]
