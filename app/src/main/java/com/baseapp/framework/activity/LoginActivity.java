@@ -11,7 +11,7 @@ import com.baseapp.framework.mvp.presenter.LoginPresenter;
 import com.baseapp.framework.mvp.presenter.view.LoginView;
 
 /**
- * Created by wby on 2016/5/18.
+ * Created by wby on 2016/5/18
  */
 public class LoginActivity extends BaseActivity implements LoginView {
     //asd
